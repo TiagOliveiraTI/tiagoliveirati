@@ -1,8 +1,8 @@
 ### Aooba! Sou o Tiago Oliveira! 👋
 
-🔭 Atualmente trabalhando com backend, as vezes me aventuro no front \0/
-🌱 No momento aprendendo testes unitários, typescript e Clean Architecture
-📫 Contato: dev.tiago.oliveira@gmail.com
+* 🔭 Atualmente trabalhando com backend, as vezes me aventuro no front \0/
+* 🌱 No momento aprendendo testes unitários, typescript e Clean Architecture
+* 📫 Contato: dev.tiago.oliveira@gmail.com
 
 <div>
   <a href="https://github.com/tiagoliveirati">
